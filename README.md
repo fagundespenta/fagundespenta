@@ -27,6 +27,16 @@ Hi! I'm **Pedro**, a developer from Brazil 🇧🇷 who builds **web and mobile 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+### 🌱 Currently building with
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ### 🚀 Featured project
 **[VitalSync](https://github.com/fagundespenta/VitalSync)** — Android health app for people of all ages.
 Medication alarms with action buttons · offline-first Firestore sync · AI health assistant · charts · 3 languages · accessibility settings.
@@ -50,6 +60,9 @@ Olá! Sou o **Pedro**, desenvolvedor brasileiro 🇧🇷 que cria **apps web e m
 
 ### 🛠️ Tecnologias
 JavaScript · HTML5 · CSS3 · Node.js · Firebase · Capacitor · Android · Chart.js · API da OpenAI · Git
+
+### 🌱 Aprendendo e construindo com
+TypeScript · React · Next.js · Tailwind CSS · Python · FastAPI · PostgreSQL · Docker
 
 ### 🚀 Projeto em destaque
 **[VitalSync](https://github.com/fagundespenta/VitalSync)** — app Android de saúde para pessoas de todas as idades.
