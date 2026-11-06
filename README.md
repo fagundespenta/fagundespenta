@@ -19,10 +19,7 @@ Available for freelance and contract work.
 
 ---
 
-<details>
-<summary>Português</summary>
-
-<br>
+### Português
 
 Desenvolvedor de software no Brasil, trabalhando com aplicações web e mobile.
 Disponível para projetos freelance e contratos.
@@ -40,5 +37,3 @@ Disponível para projetos freelance e contratos.
 | [DocMind](https://github.com/fagundespenta/docmind) | Perguntas e respostas sobre documentos enviados, com citação das fontes | Python, FastAPI, React, APIs de LLM |
 
 **Contato:** fagundespedro0810@gmail.com
-
-</details>
